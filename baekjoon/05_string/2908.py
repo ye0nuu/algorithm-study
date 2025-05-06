@@ -1,6 +1,6 @@
 # BOJ 2908번: 상수 
 # URL: https://www.acmicpc.net/problem/2908
-# 분류: 
+# 분류: 수학, 구현
 # 난이도: 브론즈 2
 # 풀이 시간: 5분
 
