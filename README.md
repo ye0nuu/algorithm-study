@@ -75,6 +75,14 @@ algorithm-study/baekjoon
 | 5073 | 삼각형과 세 변 | [🔗 코드 보기](baekjoon\09_geometry\5073.py) |
 | 14215 | 세 막대 | [🔗 코드 보기](baekjoon\09_geometry\14215.py) |
 
+| 24262 | 알고리즘 수업 - 알고리즘의 수행 시간 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\24262.py) |
+| 24263 | 알고리즘 수업 - 알고리즘의 수행 시간 2 | [🔗 코드 보기](baekjoon\10_timeComplexity\24263.py) |
+| 24264 | 알고리즘 수업 - 알고리즘의 수행 시간 3 | [🔗 코드 보기](baekjoon\10_timeComplexity\24264.py) |
+| 24265 | 알고리즘 수업 - 알고리즘의 수행 시간 4 | [🔗 코드 보기](baekjoon\10_timeComplexity\24265.py) |
+| 24266 | 알고리즘 수업 - 알고리즘의 수행 시간 5 | [🔗 코드 보기](baekjoon\10_timeComplexity\24266.py) |
+| 24267 | 알고리즘 수업 - 알고리즘의 수행 시간 6 | [🔗 코드 보기](baekjoon\10_timeComplexity\24267.py) |
+| 24313 | 알고리즘 수업 - 점근적 표기 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\243131.py) |
+
 
 
 ## ✍️ 기록 방식
