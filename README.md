@@ -81,8 +81,14 @@ algorithm-study/baekjoon
 | 24265 | 알고리즘 수업 - 알고리즘의 수행 시간 4 | [🔗 코드 보기](baekjoon\10_timeComplexity\24265.py) |
 | 24266 | 알고리즘 수업 - 알고리즘의 수행 시간 5 | [🔗 코드 보기](baekjoon\10_timeComplexity\24266.py) |
 | 24267 | 알고리즘 수업 - 알고리즘의 수행 시간 6 | [🔗 코드 보기](baekjoon\10_timeComplexity\24267.py) |
-| 24313 | 알고리즘 수업 - 점근적 표기 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\243131.py) |
+| 24313 | 알고리즘 수업 - 점근적 표기 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\24313.py) |
 
+| 2798 | 블랙잭 | [🔗 코드 보기](baekjoon\11_bruteForce\2798.py) |
+| 2231 | 분해합 | [🔗 코드 보기](baekjoon\11_bruteForce\2231.py) |
+| 19532 | 수학은 비대면강의입니다 | [🔗 코드 보기](baekjoon\11_bruteForce\19532.py) |
+| 1018 | 체스판 다시 칠하기 | [🔗 코드 보기](baekjoon\11_bruteForce\1018.py) |
+| 1436 | 영화감독 숌 | [🔗 코드 보기](baekjoon\11_bruteForce\1436.py) |
+| 2839 | 설탕 배달 | [🔗 코드 보기](baekjoon\11_bruteForce\2839.py) |
 
 
 ## ✍️ 기록 방식
