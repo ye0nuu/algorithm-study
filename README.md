@@ -90,6 +90,18 @@ algorithm-study/baekjoon
 | 1436 | 영화감독 숌 | [🔗 코드 보기](baekjoon\11_bruteForce\1436.py) |
 | 2839 | 설탕 배달 | [🔗 코드 보기](baekjoon\11_bruteForce\2839.py) |
 
+| 2750 | 수 정렬하기 | [🔗 코드 보기](baekjoon\12_selection\2750.py) |
+| 2587 | 대표값2 | [🔗 코드 보기](baekjoon\12_selection\2587.py) |
+| 25305 | 커트라인 | [🔗 코드 보기](baekjoon\12_selection\25305.py) |
+| 2751 | 수 정렬하기 2 | [🔗 코드 보기](baekjoon\12_selection\2751.py) |
+| 10989 | 수 정렬하기 3 | [🔗 코드 보기](baekjoon\12_selection\10989.py) |
+| 1427 | 소트인사이드 | [🔗 코드 보기](baekjoon\12_selection\1427.py) |
+| 11650 | 좌표 정렬하기 | [🔗 코드 보기](baekjoon\12_selection\11650.py) |
+| 11651 | 좌표 정렬하기 2 | [🔗 코드 보기](baekjoon\12_selection\11651.py) |
+| 1181 | 단어 정렬 | [🔗 코드 보기](baekjoon\12_selection\1181.py) |
+| 10814 | 나이순 정렬 | [🔗 코드 보기](baekjoon\12_selection\10814.py) |
+| 18870 | 좌표 압축 | [🔗 코드 보기](baekjoon\12_selection\18870.py) |
+
 
 ## ✍️ 기록 방식
 
