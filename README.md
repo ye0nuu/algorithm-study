@@ -102,6 +102,15 @@ algorithm-study/baekjoon
 | 10814 | 나이순 정렬 | [🔗 코드 보기](baekjoon\12_selection\10814.py) |
 | 18870 | 좌표 압축 | [🔗 코드 보기](baekjoon\12_selection\18870.py) |
 
+| 10815 | 숫자 카드 | [🔗 코드 보기](baekjoon\13_set_map\10815.py) |
+| 14425 | 문자열 집합 | [🔗 코드 보기](baekjoon\13_set_map\14425.py) |
+| 7785 | 회사에 있는 사람 | [🔗 코드 보기](baekjoon\13_set_map\7785.py) |
+| 1620 | 나는야 포켓몬 마스터 이다솜 | [🔗 코드 보기](baekjoon\13_set_map\1620.py) |
+| 10816 | 숫자 카드 2 | [🔗 코드 보기](baekjoon\13_set_map\10816.py) |
+| 1764 | 듣보잡 | [🔗 코드 보기](baekjoon\13_set_map\1764.py) |
+| 1269 | 대칭 차집합 | [🔗 코드 보기](baekjoon\13_set_map\1269.py) |
+| 11478 | 서로 다른 부분 문자열의 개수 | [🔗 코드 보기](baekjoon\13_set_map\11478.py) |
+
 
 ## ✍️ 기록 방식
 
