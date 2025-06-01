@@ -51,65 +51,75 @@ algorithm-study/baekjoon
 | 10798 | 세로읽기 | [🔗 코드 보기](baekjoon\07_2Darray\10798.py) |
 | 2563 | 색종이 | [🔗 코드 보기](baekjoon\07_2Darray\2563.py) |
 
-| 2745 | 진법 변환 | [🔗 코드 보기](baekjoon\07_GeneralMath1\2745.py) |
-| 11005 | 진법 변환 2 | [🔗 코드 보기](baekjoon\07_GeneralMath1\11005.py) |
-| 2720 | 세탁소 사장 동혁 | [🔗 코드 보기](baekjoon\07_GeneralMath1\2720.py) |
-| 2903 | 중앙 이동 알고리즘 | [🔗 코드 보기](baekjoon\07_GeneralMath1\2903.py) |
-| 2292 | 벌집 | [🔗 코드 보기](baekjoon\07_GeneralMath1\2292.py) |
-| 1193 | 분수찾기 | [🔗 코드 보기](baekjoon\07_GeneralMath1\1193.py) |
-| 2869 | 달팽이는 올라가고 싶다 | [🔗 코드 보기](baekjoon\07_GeneralMath1\2869.py) |
+| 2745 | 진법 변환 | [🔗 코드 보기](baekjoon\08_GeneralMath1\2745.py) |
+| 11005 | 진법 변환 2 | [🔗 코드 보기](baekjoon\08_GeneralMath1\11005.py) |
+| 2720 | 세탁소 사장 동혁 | [🔗 코드 보기](baekjoon\08_GeneralMath1\2720.py) |
+| 2903 | 중앙 이동 알고리즘 | [🔗 코드 보기](baekjoon\08_GeneralMath1\2903.py) |
+| 2292 | 벌집 | [🔗 코드 보기](baekjoon\08_GeneralMath1\2292.py) |
+| 1193 | 분수찾기 | [🔗 코드 보기](baekjoon\08_GeneralMath1\1193.py) |
+| 2869 | 달팽이는 올라가고 싶다 | [🔗 코드 보기](baekjoon\08_GeneralMath1\2869.py) |
 
-| 5086 | 배수와 약수 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\5086.py) |
-| 2501 | 약수 구하기 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\2501.py) |
-| 9506 | 약수들의 합 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\9506.py) |
-| 1978 | 소수 찾기 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\1978.py) |
-| 2581 | 소수 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\2581.py) |
-| 11653 | 소인수분해 | [🔗 코드 보기](baekjoon\08_divisors_multiples_primes\11653.py) |
+| 5086 | 배수와 약수 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\5086.py) |
+| 2501 | 약수 구하기 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\2501.py) |
+| 9506 | 약수들의 합 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\9506.py) |
+| 1978 | 소수 찾기 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\1978.py) |
+| 2581 | 소수 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\2581.py) |
+| 11653 | 소인수분해 | [🔗 코드 보기](baekjoon\09_divisors_multiples_primes\11653.py) |
 
-| 27323 | 직사각형 | [🔗 코드 보기](baekjoon\09_geometry\27323.py) |
-| 1085 | 직사각형에서 탈출 | [🔗 코드 보기](baekjoon\09_geometry\1085.py) |
-| 3009 | 네 번째 점 | [🔗 코드 보기](baekjoon\09_geometry\3009.py) |
-| 15894 | 수학은 체육과목입니다 | [🔗 코드 보기](baekjoon\09_geometry\15894.py) |
-| 9063 | 대지 | [🔗 코드 보기](baekjoon\09_geometry\9063.py) |
-| 10101 | 삼각형 외우기 | [🔗 코드 보기](baekjoon\09_geometry\10101.py) |
-| 5073 | 삼각형과 세 변 | [🔗 코드 보기](baekjoon\09_geometry\5073.py) |
-| 14215 | 세 막대 | [🔗 코드 보기](baekjoon\09_geometry\14215.py) |
+| 27323 | 직사각형 | [🔗 코드 보기](baekjoon\10_geometry\27323.py) |
+| 1085 | 직사각형에서 탈출 | [🔗 코드 보기](baekjoon\10_geometry\1085.py) |
+| 3009 | 네 번째 점 | [🔗 코드 보기](baekjoon\10_geometry\3009.py) |
+| 15894 | 수학은 체육과목입니다 | [🔗 코드 보기](baekjoon\10_geometry\15894.py) |
+| 9063 | 대지 | [🔗 코드 보기](baekjoon\10_geometry\9063.py) |
+| 10101 | 삼각형 외우기 | [🔗 코드 보기](baekjoon\10_geometry\10101.py) |
+| 5073 | 삼각형과 세 변 | [🔗 코드 보기](baekjoon\10_geometry\5073.py) |
+| 14215 | 세 막대 | [🔗 코드 보기](baekjoon\10_geometry\14215.py) |
 
-| 24262 | 알고리즘 수업 - 알고리즘의 수행 시간 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\24262.py) |
-| 24263 | 알고리즘 수업 - 알고리즘의 수행 시간 2 | [🔗 코드 보기](baekjoon\10_timeComplexity\24263.py) |
-| 24264 | 알고리즘 수업 - 알고리즘의 수행 시간 3 | [🔗 코드 보기](baekjoon\10_timeComplexity\24264.py) |
-| 24265 | 알고리즘 수업 - 알고리즘의 수행 시간 4 | [🔗 코드 보기](baekjoon\10_timeComplexity\24265.py) |
-| 24266 | 알고리즘 수업 - 알고리즘의 수행 시간 5 | [🔗 코드 보기](baekjoon\10_timeComplexity\24266.py) |
-| 24267 | 알고리즘 수업 - 알고리즘의 수행 시간 6 | [🔗 코드 보기](baekjoon\10_timeComplexity\24267.py) |
-| 24313 | 알고리즘 수업 - 점근적 표기 1 | [🔗 코드 보기](baekjoon\10_timeComplexity\24313.py) |
+| 24262 | 알고리즘 수업 - 알고리즘의 수행 시간 1 | [🔗 코드 보기](baekjoon\11_timeComplexity\24262.py) |
+| 24263 | 알고리즘 수업 - 알고리즘의 수행 시간 2 | [🔗 코드 보기](baekjoon\11_timeComplexity\24263.py) |
+| 24264 | 알고리즘 수업 - 알고리즘의 수행 시간 3 | [🔗 코드 보기](baekjoon\11_timeComplexity\24264.py) |
+| 24265 | 알고리즘 수업 - 알고리즘의 수행 시간 4 | [🔗 코드 보기](baekjoon\11_timeComplexity\24265.py) |
+| 24266 | 알고리즘 수업 - 알고리즘의 수행 시간 5 | [🔗 코드 보기](baekjoon\11_timeComplexity\24266.py) |
+| 24267 | 알고리즘 수업 - 알고리즘의 수행 시간 6 | [🔗 코드 보기](baekjoon\11_timeComplexity\24267.py) |
+| 24313 | 알고리즘 수업 - 점근적 표기 1 | [🔗 코드 보기](baekjoon\11_timeComplexity\24313.py) |
 
-| 2798 | 블랙잭 | [🔗 코드 보기](baekjoon\11_bruteForce\2798.py) |
-| 2231 | 분해합 | [🔗 코드 보기](baekjoon\11_bruteForce\2231.py) |
-| 19532 | 수학은 비대면강의입니다 | [🔗 코드 보기](baekjoon\11_bruteForce\19532.py) |
-| 1018 | 체스판 다시 칠하기 | [🔗 코드 보기](baekjoon\11_bruteForce\1018.py) |
-| 1436 | 영화감독 숌 | [🔗 코드 보기](baekjoon\11_bruteForce\1436.py) |
-| 2839 | 설탕 배달 | [🔗 코드 보기](baekjoon\11_bruteForce\2839.py) |
+| 2798 | 블랙잭 | [🔗 코드 보기](baekjoon\12_bruteForce\2798.py) |
+| 2231 | 분해합 | [🔗 코드 보기](baekjoon\12_bruteForce\2231.py) |
+| 19532 | 수학은 비대면강의입니다 | [🔗 코드 보기](baekjoon\12_bruteForce\19532.py) |
+| 1018 | 체스판 다시 칠하기 | [🔗 코드 보기](baekjoon\12_bruteForce\1018.py) |
+| 1436 | 영화감독 숌 | [🔗 코드 보기](baekjoon\12_bruteForce\1436.py) |
+| 2839 | 설탕 배달 | [🔗 코드 보기](baekjoon\12_bruteForce\2839.py) |
 
-| 2750 | 수 정렬하기 | [🔗 코드 보기](baekjoon\12_selection\2750.py) |
-| 2587 | 대표값2 | [🔗 코드 보기](baekjoon\12_selection\2587.py) |
-| 25305 | 커트라인 | [🔗 코드 보기](baekjoon\12_selection\25305.py) |
-| 2751 | 수 정렬하기 2 | [🔗 코드 보기](baekjoon\12_selection\2751.py) |
-| 10989 | 수 정렬하기 3 | [🔗 코드 보기](baekjoon\12_selection\10989.py) |
-| 1427 | 소트인사이드 | [🔗 코드 보기](baekjoon\12_selection\1427.py) |
-| 11650 | 좌표 정렬하기 | [🔗 코드 보기](baekjoon\12_selection\11650.py) |
-| 11651 | 좌표 정렬하기 2 | [🔗 코드 보기](baekjoon\12_selection\11651.py) |
-| 1181 | 단어 정렬 | [🔗 코드 보기](baekjoon\12_selection\1181.py) |
-| 10814 | 나이순 정렬 | [🔗 코드 보기](baekjoon\12_selection\10814.py) |
-| 18870 | 좌표 압축 | [🔗 코드 보기](baekjoon\12_selection\18870.py) |
+| 2750 | 수 정렬하기 | [🔗 코드 보기](baekjoon\13_selection\2750.py) |
+| 2587 | 대표값2 | [🔗 코드 보기](baekjoon\13_selection\2587.py) |
+| 25305 | 커트라인 | [🔗 코드 보기](baekjoon\13_selection\25305.py) |
+| 2751 | 수 정렬하기 2 | [🔗 코드 보기](baekjoon\13_selection\2751.py) |
+| 10989 | 수 정렬하기 3 | [🔗 코드 보기](baekjoon\13_selection\10989.py) |
+| 1427 | 소트인사이드 | [🔗 코드 보기](baekjoon\13_selection\1427.py) |
+| 11650 | 좌표 정렬하기 | [🔗 코드 보기](baekjoon\13_selection\11650.py) |
+| 11651 | 좌표 정렬하기 2 | [🔗 코드 보기](baekjoon\13_selection\11651.py) |
+| 1181 | 단어 정렬 | [🔗 코드 보기](baekjoon\13_selection\1181.py) |
+| 10814 | 나이순 정렬 | [🔗 코드 보기](baekjoon\13_selection\10814.py) |
+| 18870 | 좌표 압축 | [🔗 코드 보기](baekjoon\13_selection\18870.py) |
 
-| 10815 | 숫자 카드 | [🔗 코드 보기](baekjoon\13_set_map\10815.py) |
-| 14425 | 문자열 집합 | [🔗 코드 보기](baekjoon\13_set_map\14425.py) |
-| 7785 | 회사에 있는 사람 | [🔗 코드 보기](baekjoon\13_set_map\7785.py) |
-| 1620 | 나는야 포켓몬 마스터 이다솜 | [🔗 코드 보기](baekjoon\13_set_map\1620.py) |
-| 10816 | 숫자 카드 2 | [🔗 코드 보기](baekjoon\13_set_map\10816.py) |
-| 1764 | 듣보잡 | [🔗 코드 보기](baekjoon\13_set_map\1764.py) |
-| 1269 | 대칭 차집합 | [🔗 코드 보기](baekjoon\13_set_map\1269.py) |
-| 11478 | 서로 다른 부분 문자열의 개수 | [🔗 코드 보기](baekjoon\13_set_map\11478.py) |
+| 10815 | 숫자 카드 | [🔗 코드 보기](baekjoon\14_set_map\10815.py) |
+| 14425 | 문자열 집합 | [🔗 코드 보기](baekjoon\14_set_map\14425.py) |
+| 7785 | 회사에 있는 사람 | [🔗 코드 보기](baekjoon\14_set_map\7785.py) |
+| 1620 | 나는야 포켓몬 마스터 이다솜 | [🔗 코드 보기](baekjoon\14_set_map\1620.py) |
+| 10816 | 숫자 카드 2 | [🔗 코드 보기](baekjoon\14_set_map\10816.py) |
+| 1764 | 듣보잡 | [🔗 코드 보기](baekjoon\14_set_map\1764.py) |
+| 1269 | 대칭 차집합 | [🔗 코드 보기](baekjoon\14_set_map\1269.py) |
+| 11478 | 서로 다른 부분 문자열의 개수 | [🔗 코드 보기](baekjoon\14_set_map\11478.py) |
+
+| 1934 | 최소공배수 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\1934.py) |
+| 13241 | 최소공배수 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\13241.py) |
+| 1735 | 분수 합 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\1735.py) |
+| 2485 | 가로수 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\2485.py) |
+| 4134 | 다음 소수 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\4134.py) |
+| 1929 | 소수 구하기 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\1929.py) |
+| 4948 | 베르트랑 공준 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\4948.py) |
+| 17103 | 골드바흐 파티션 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\17103.py) |
+| 13909 | 창문 닫기 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\13909.py) |
 
 
 ## ✍️ 기록 방식
