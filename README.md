@@ -121,6 +121,18 @@ algorithm-study/baekjoon
 | 17103 | 골드바흐 파티션 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\17103.py) |
 | 13909 | 창문 닫기 | [🔗 코드 보기](baekjoon\15_divisors_multiples_primes2\13909.py) |
 
+| 28278 | 스택 2 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\28278.py) |
+| 10773 | 제로 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\10773.py) |
+| 9012 | 괄호 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\9012.py) |
+| 4949 | 균형잡힌 세상 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\4949.py) |
+| 12789 | 도키도키 간식드리미 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\12789.py) |
+| 18258 | 큐 2 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\18258.py) |
+| 2164 | 카드2 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\2164.py) |
+| 11866 | 요세푸스 문제 0 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\1186.py) |
+| 28279 | 덱 2 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\28279.py) |
+| 2346 | 풍선 터뜨리기 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\2346.py) |
+| 24511 | queuestack | [🔗 코드 보기](baekjoon\16_stack_queue_deque\24511.py) |
+
 
 ## ✍️ 기록 방식
 
