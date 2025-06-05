@@ -94,8 +94,8 @@ algorithm-study/baekjoon
 | 2587 | 대표값2 | [🔗 코드 보기](baekjoon\13_selection\2587.py) |
 | 25305 | 커트라인 | [🔗 코드 보기](baekjoon\13_selection\25305.py) |
 | 2751 | 수 정렬하기 2 | [🔗 코드 보기](baekjoon\13_selection\2751.py) |
-| 10989 | 수 정렬하기 3 | [🔗 코드 보기](baekjoon\13_selection\10989.py) |
-| 1427 | 소트인사이드 | [🔗 코드 보기](baekjoon\13_selection\1427.py) |
+| 10989 | 수 정렬하기 3 | [🔗 코드기](baekjoon\13_selection\10989.py) |
+| 1427 | 소트인사 보이드 | [🔗 코드 보기](baekjoon\13_selection\1427.py) |
 | 11650 | 좌표 정렬하기 | [🔗 코드 보기](baekjoon\13_selection\11650.py) |
 | 11651 | 좌표 정렬하기 2 | [🔗 코드 보기](baekjoon\13_selection\11651.py) |
 | 1181 | 단어 정렬 | [🔗 코드 보기](baekjoon\13_selection\1181.py) |
@@ -132,6 +132,12 @@ algorithm-study/baekjoon
 | 28279 | 덱 2 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\28279.py) |
 | 2346 | 풍선 터뜨리기 | [🔗 코드 보기](baekjoon\16_stack_queue_deque\2346.py) |
 | 24511 | queuestack | [🔗 코드 보기](baekjoon\16_stack_queue_deque\24511.py) |
+
+| 15439 | 베라의 패션 | [🔗 코드 보기](baekjoon\17_combinatorics\15439.py) |
+| 24723 | 녹색거탑 | [🔗 코드 보기](baekjoon\17_combinatorics\24723.py) |
+| 10872 | 팩토리얼 | [🔗 코드 보기](baekjoon\17_combinatorics\10872.py) |
+| 11050 | 이항 계수 1 | [🔗 코드 보기](baekjoon\17_combinatorics\11050.py) |
+| 1010 | 다리 놓기 | [🔗 코드 보기](baekjoon\17_combinatorics\1010.py) |
 
 
 ## ✍️ 기록 방식
