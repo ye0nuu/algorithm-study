@@ -145,6 +145,14 @@ algorithm-study/baekjoon
 | 2108 | 통계학 | [🔗 코드 보기](baekjoon\18_advanced2\2108.py) |
 | 20920 | 영단어 암기는 괴로워 | [🔗 코드 보기](baekjoon\18_advanced2\20920.py) |
 
+| 27433 | 팩토리얼 2 | [🔗 코드 보기](baekjoon\19_recursion\27433.py) |
+| 10870 | 피보나치 수 5 | [🔗 코드 보기](baekjoon\19_recursion\10870.py) |
+| 25501 | 재귀의 귀재 | [🔗 코드 보기](baekjoon\19_recursion\25501.py) |
+| 24060 | 알고리즘 수업 - 병합 정렬 1 | [🔗 코드 보기](baekjoon\19_recursion\24060.py) |
+| 4779 | 칸토어 집합 | [🔗 코드 보기](baekjoon\19_recursion\4779.py) |
+| 2447 | 별 찍기 - 10 | [🔗 코드 보기](baekjoon\19_recursion\2447.py) |
+| 11729 | 하노이 탑 이동 순서 | [🔗 코드 보기](baekjoon\19_recursion\11729.py) |
+
 
 ## ✍️ 기록 방식
 
@@ -156,5 +164,5 @@ algorithm-study/baekjoon
 
 ## 🚀 사용 기술
 
-- Python 3.x
+- Python 3.12.6
 - VS Code + Git
