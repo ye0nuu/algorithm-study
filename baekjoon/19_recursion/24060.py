@@ -10,7 +10,8 @@
 # 의사코드가 주어진다.
 
 # ✅ 내 풀이 아이디어:
-# - 
+# - 의사코드 구현 후 전역변수 count, result 생성
+# - N, K 입력받고 merge_sort 함수 재귀호출해 저장된 result 값 출력
 
 count = 0
 result = -1
